@@ -1,2 +1,2 @@
 source $HOME/rc/vimrc
-" source $HOME/rc/vim.internal
+" source $HOME/rc/vimrc.internal
