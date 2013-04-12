@@ -13,6 +13,7 @@ Bundle 'gmarik/vundle'
 Bundle 'Valloric/YouCompleteMe'
 Bundle "kien/ctrlp.vim"
 Bundle 'a.vim'
+Bundle 'SirVer/ultisnips'
 
 filetype plugin indent on     " required!
 "
