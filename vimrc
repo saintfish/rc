@@ -14,6 +14,7 @@ Bundle 'Valloric/YouCompleteMe'
 Bundle "kien/ctrlp.vim"
 Bundle 'a.vim'
 Bundle 'SirVer/ultisnips'
+Bundle 'scrooloose/syntastic'
 
 filetype plugin indent on     " required!
 "
@@ -40,3 +41,5 @@ nmap <F12> :A<CR>
 nmap <F12>s :AS<CR>
 nmap <F12>v :AV<CR>
 set wildmenu
+
+let g:syntastic_always_populate_loc_list = 1
