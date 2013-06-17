@@ -10,7 +10,6 @@ call vundle#rc()
 " required!
 Bundle 'gmarik/vundle'
 " My Bundles here:
-Bundle 'Valloric/YouCompleteMe'
 Bundle "kien/ctrlp.vim"
 Bundle 'a.vim'
 Bundle 'SirVer/ultisnips'
