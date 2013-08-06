@@ -42,3 +42,7 @@ nmap <F12>v :AV<CR>
 set wildmenu
 
 let g:syntastic_always_populate_loc_list = 1
+
+let g:UltiSnipsExpandTrigger = "<c-j>"
+let g:UltiSnipsJumpForwardTrigger = "<c-j>"
+let g:UltiSnipsJumpBackwardTrigger = "<c-k>"
